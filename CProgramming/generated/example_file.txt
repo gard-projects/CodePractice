@@ -4,3 +4,4 @@ Daisy,24,999,Data Science
 Prime Da Prime,19,23,English
 Freaky Da Freak,200,345,Norwegian
 Mary,20,555,Science
+Gard,22,222,Math
