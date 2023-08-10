@@ -1,9 +1,9 @@
 Location,Date,MaxTemperature,MinTemperature,IsSunny,IsRainy
 Stavanger,09.08.2023,18.0,12.0,false,true
-Sola,09.08.2023,22.0,16.0,true,true
-Sandnes,09.08.2023,7.0,5.0,true,true
+Sola,12.08.2023,22.0,16.0,true,true
+Sandnes,11.08.2023,7.0,5.0,true,true
 Risavika,09.08.2023,33.0,22.0,false,true
-Bogafjell,09.08.2023,16.0,8.0,false,true
-Forus,09.08.2023,28.0,20.0,false,false
+Bogafjell,10.08.2023,16.0,8.0,false,true
+Forus,12.08.2023,28.0,20.0,false,false
 Kristiansand,09.08.2023,23.0,14.0,false,false
 Bryne,09.08.2023,18.0,9.0,true,true
