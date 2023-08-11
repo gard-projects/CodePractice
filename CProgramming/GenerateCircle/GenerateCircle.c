@@ -36,7 +36,6 @@ int main() {
             clicked++;
         }
 
-
         BeginDrawing();
         ClearBackground(WHITE);
         for(int i=0; i < GET_ARRAY_SIZE(circles); i++) {
